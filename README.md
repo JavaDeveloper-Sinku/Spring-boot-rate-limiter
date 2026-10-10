@@ -75,7 +75,7 @@ You can also test the API endpoints using Postman.
 Send multiple requests to either endpoint. The first five requests should be allowed within the applicable window; subsequent requests should receive `429 Too Many Requests` until the rate limit permits another request.
 
 <img width="1680" height="1050" alt="Screenshot 2026-10-10 at 10 35 11 PM" src="https://github.com/user-attachments/assets/0a29fc3b-8240-49b4-8404-b5a77b16c252" />
-<img width="1680" height="1050" alt="Screenshot 2026-10-10 at 10 35 04 PM" src="https://github.com/user-attachments/assets/aa2dcd84-ba27-461e-a409-87d08075bea2" />
+<img width="1286" height="628" alt="Screenshot 2026-10-10 at 10 35 04 PM" src="https://github.com/user-attachments/assets/be2a79dc-c0b8-4acd-bbc9-09ae273888b1" />
 
 
 
